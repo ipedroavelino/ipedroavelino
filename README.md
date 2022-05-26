@@ -9,5 +9,5 @@
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipedroavelino&theme=midnight-purple_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipedroavelino&theme=midnight-purple&_icons=true"/>
 </div>
