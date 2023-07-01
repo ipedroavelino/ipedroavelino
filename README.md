@@ -1,6 +1,6 @@
 <div>
 <a href="https://github.com/ipedroavelino">
-<img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api?username=ipedroavelino&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=midnight-purple"/>
+
   
 <img height="170em" width="285em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipedroavelino&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
