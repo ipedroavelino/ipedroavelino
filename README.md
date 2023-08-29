@@ -12,9 +12,8 @@
   <br>
   <div align="center">
   <p>Estudando:</p>
- <img align="center" alt="React-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="JS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Java-Logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
+ <img align="center" alt="Angular-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+<img align="center" alt="JS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
    </div>
   
   
