@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 <a href="https://github.com/ipedroavelino">
 
   
@@ -10,7 +10,7 @@
 <img  alt="CSS-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   <br>
-  <div align="center">
+  <div >
   <p>Estudando:</p>
  <img  alt="Angular-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 <img  alt="JS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
