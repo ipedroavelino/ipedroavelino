@@ -18,6 +18,7 @@
   <div >
     <br>
   <p>Studying:</p>
+   <img  alt="TS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
  <img  alt="Angular-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 <img  alt="JS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   </div>
