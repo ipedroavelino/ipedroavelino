@@ -11,15 +11,10 @@
 <div  >
   <br>
   <p>Utilizando: </p>
-<img alt="HTML-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img  alt="CSS-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
 
   <div >
-    <br>
-   <img  alt="TS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
  <img  alt="Angular-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-<img  alt="JS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   </div>
 <br>
 
