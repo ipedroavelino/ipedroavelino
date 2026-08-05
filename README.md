@@ -5,17 +5,4 @@
 </div>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipedroavelino&layout=donut&theme=radical">
-
-
-<div  >
-  <br>
-  <p>Utilizando: </p>
-</div> 
-
-  <div >
- <img  alt="Angular-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  </div>
-<br>
-
 
